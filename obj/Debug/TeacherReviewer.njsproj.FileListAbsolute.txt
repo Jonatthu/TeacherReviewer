@@ -1,0 +1,2 @@
+C:\Users\jonat\Source\Repos\TeacherReviewer\obj\Debug\TeacherReviewer.njsprojResolveAssemblyReference.cache
+C:\Users\jonat\Source\Repos\TeacherReviewer\bin\Microsoft.NodejsTools.WebRole.dll
