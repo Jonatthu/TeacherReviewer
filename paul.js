@@ -1,4 +1,6 @@
-console.log("Jonathan 1");
-console.log("Jonathan 2");
-console.log("Jonathan 3");
-console.log("Jonathan 4");
+
+var enter = function (str) {
+    return str;
+};
+
+console.log(enter("Jonathan 4"));
